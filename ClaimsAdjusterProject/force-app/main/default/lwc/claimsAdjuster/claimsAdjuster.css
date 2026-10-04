@@ -1,0 +1,11 @@
+.claim-card {
+    border: 1px solid #d8dde6;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 12px;
+    background: white;
+}
+
+.claim-card p {
+    margin-bottom: 8px;
+}
