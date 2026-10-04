@@ -48,7 +48,7 @@ The solution replaces fragmented spreadsheets, manual queue sorting, and offline
 ## 🎥 Demo
 
 **Demo Link:**
-[Add / Open Demo Link]
+https://drive.google.com/drive/folders/1FykCdq-QRryfylW_cX-j14jo15bL4_oF
 
 ---
 
@@ -508,7 +508,4 @@ Future enhancements identified for the project include:
 
 ---
 
-### 🔗 Demo
 
-**Demo Link:**
-Add the project demonstration link here.
